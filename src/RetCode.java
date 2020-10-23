@@ -8,11 +8,11 @@ public class RetCode {
 		CODE_BAD_FORMATTING,
 		CODE_MISSING_PARAMETER
 	}
-	public enum SetterError {
+	public enum SetterCode {
 		CODE_SUCCESS,
 		CODE_INVALID_ARGUMENT
 	}
-	public enum AlgorithmError {
+	public enum AlgorithmCode {
 		CODE_SUCCESS,
 		CODE_INVALID_ARGUMENT,
 		CODE_READING_ERROR,
