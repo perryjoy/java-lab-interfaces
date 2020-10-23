@@ -3,8 +3,7 @@ package ru.spbstu.pipeline;
 public class RetCode {
 	public enum ConfigCode {
 		CODE_SUCCESS,
-		CODE_FILE_NOT_FOUND,
-		CODE_READING_ERROR,
+		CODE_FAILED_TO_READ,
 		CODE_BAD_FORMATTING,
 		CODE_MISSING_PARAMETER
 	}
