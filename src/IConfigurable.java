@@ -1,4 +1,4 @@
-package ru.spbstu.pipiline;
+package ru.spbstu.pipeline;
 
 public interface IConfigurable {
 	RetCode setConfig(String cfg);

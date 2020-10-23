@@ -1,4 +1,4 @@
-package ru.spbstu.pipiline;
+package ru.spbstu.pipeline;
 
 public interface IPipelineStep extends IExecutable {
 	RetCode setConsumer(IExecutable c);
