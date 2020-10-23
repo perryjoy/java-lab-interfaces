@@ -1,4 +1,4 @@
-package ru.edu.spbstu.pipiline;
+package ru.spbstu.pipiline;
 
 public class RetCode {
 	public enum ConfigCode {

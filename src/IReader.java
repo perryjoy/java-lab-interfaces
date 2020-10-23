@@ -1,4 +1,4 @@
-package ru.edu.spbstu.pipiline;
+package ru.spbstu.pipiline;
 
 import java.io.FileInputStream;
 
