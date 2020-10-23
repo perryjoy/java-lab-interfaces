@@ -1,3 +1,5 @@
+package ru.edu.spbstu.pipiline;
+
 public interface IExecutable {
-	ReturningCode execute(byte [] data);
+	RetCode execute(byte [] data);
 }

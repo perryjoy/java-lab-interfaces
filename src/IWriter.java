@@ -1,5 +1,7 @@
+package ru.edu.spbstu.pipiline;
+
 import java.io.FileOutputStream;
 
 public interface IWriter extends IConfigurable, IPipelineStep {
-	ReturningCode setOutputStream(FileOutputStream fos);
+	RetCode setOutputStream(FileOutputStream fos);
 }

@@ -1,3 +1,5 @@
+package ru.edu.spbstu.pipiline;
+
 public interface IConfigurable {
-	ReturningCode setConfig(String cfg);
+	RetCode setConfig(String cfg);
 }
