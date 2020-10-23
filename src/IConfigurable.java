@@ -1,5 +1,5 @@
 package ru.spbstu.pipeline;
 
 public interface IConfigurable {
-	RetCode setConfig(String cfg);
+	RetCode.ConfigCode setConfig(String cfg);
 }
