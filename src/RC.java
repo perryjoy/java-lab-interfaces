@@ -11,5 +11,5 @@ public enum RC {
 	CODE_OUTPUT_FILE_OPEN, // невозможно открыть поток на запись
 	CODE_INVALID_SYNTAX_PARAMETER, // ошибка в конфиге - не найден параметр или найден лишний
 	CODE_INVALID_SEMANTIC_PARAMETER, // ошибка в конфиге - в параметре ошибка
-	CODE_FAILD_PIPELINE_CONSTRUCTION // при конструировании конвейера произошла ошибка
+	CODE_FAILED_PIPELINE_CONSTRUCTION // при конструировании конвейера произошла ошибка
 }
